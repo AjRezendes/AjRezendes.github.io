@@ -1,1 +1,35 @@
+/* CSS DOCUMENT */
 
+body {
+    background-color: #E8D8B0
+}
+
+h1 {
+    font-family: serif;
+	font-size: 3.5em;
+    height: .9em; 
+    color: darkolivegreen;
+}
+
+h2 {
+    font-family: serif;
+    font-size: 2.5em;
+    color: darkolivegreen; 
+}
+
+h3 {
+    font-family: sans-serif;
+    font-size: 1.5em;
+    color: black;
+}
+
+h4 {
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 1em;
+    color: darkolivegreen;
+}
+
+p {
+    font-family: sans-serif;
+}
