@@ -1,1 +1,52 @@
+/*CSS DOCUMENT*/
 
+@import url(https://fonts.google.com/specimen/Marck+Script?category=Handwriting&sidebar.open&selection.family=Marck+Script);
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+
+img {
+    width: 100%;
+    margin: auto;
+}
+
+body{
+    background: rgb(232,224,190);
+    
+}
+
+div.container {
+    max-width: 40em;
+    margin: auto;
+    background: rgb(214,200,165);
+	margin: 2em 20% 2em 20%;
+	padding: 1em 2em 1em 2em;
+}
+
+h1 {
+    font-size: 2.5em;
+    text-align: center;
+    font-family: 'Marck Script', cursive;
+    margin-bottom: 0;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Marck Script', cursive;
+    margin-top: 0;
+}
+
+h3 {
+    font-family: 'Marck Script', cursive;
+}
+
+p {
+    font-family: 'Jost', sans-serif;
+}
+
+ul {
+    font-family: 'Jost', sans-serif;
+}
+
+ol {
+    font-family: 'Jost', sans-serif;
+    
+}
