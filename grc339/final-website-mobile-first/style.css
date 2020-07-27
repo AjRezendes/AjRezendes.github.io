@@ -1,0 +1,79 @@
+/*CSS document*/
+
+body {
+    background-color: #333333;
+}
+
+div.container {
+    max-width: 40em;
+    margin: auto;
+}
+
+figure {
+    margin: 0;
+}
+
+img {
+    width: 100%;
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+	padding: .2em;
+}
+
+nav ul li {
+    text-align: center;
+	display: inline;
+	font-style: normal;
+	padding: 1em;
+}
+
+
+a, p, h2{
+    color: #F2F2F2;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #F04C24;
+}
+
+h1 {
+    width: 60%
+}
+
+h2, h3, li a, {
+    font-size: 1.3em;
+    font-family: sweet-square-pro, sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    margin-top: 0.2em;
+    margin-bottom: 0;
+    
+}
+
+p, footer {
+    font-family: study, serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-bottom: 2.3em;
+}
+
+footer {
+    color: #F2F2F2;
+}
+
+article {
+    margin-bottom: 1.8em;
+}
+
+figcaption{
+    color: #F2F2F2;
+    text-decoration: none;
+    font-family: study, serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 0.8em;
+}
